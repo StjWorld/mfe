@@ -30,7 +30,7 @@ export default () => {
     }
   }, [isSignedIn]);
 
-// this is a small change to run workflow
+// to make workflow work
   return (
     <Router history={history}>
       <StylesProvider generateClassName={generateClassName}>
