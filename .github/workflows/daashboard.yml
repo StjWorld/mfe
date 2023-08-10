@@ -6,7 +6,7 @@ on:
     branches:
       - master
     paths:
-      - "packages/daashboard/**"
+      - "packages/dashboard/**"
 
 defaults:
   run:
